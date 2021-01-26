@@ -1,3 +1,5 @@
+Credits : https://github.com/iamshaunjp
+Learning React: hooks, context, reducers
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
